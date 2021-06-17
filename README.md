@@ -2,6 +2,10 @@
 
 A collections of color schemes with interpolation resources.
 
+  - Language: Python3
+  - Color format: ```(r, g, b)``` with integer values between within [0, 255]. 
+    - Interpolations round values to return tuple of integers as well
+    - There are functions to convert to **hex** (HTML) format and **pygame** format as well (are there?)
 
 ```
 >>> import vipcolors
