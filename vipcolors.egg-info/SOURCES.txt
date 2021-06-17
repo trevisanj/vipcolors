@@ -1,0 +1,9 @@
+README.md
+setup.py
+vipcolors/__init__.py
+vipcolors/colorschemes.py
+vipcolors.egg-info/PKG-INFO
+vipcolors.egg-info/SOURCES.txt
+vipcolors.egg-info/dependency_links.txt
+vipcolors.egg-info/requires.txt
+vipcolors.egg-info/top_level.txt

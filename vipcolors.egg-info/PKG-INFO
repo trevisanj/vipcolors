@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: vipcolors
+Version: 21.6.15.0
+Summary: A collection of color schemes with interpolation resources
+Home-page: http://github.com/trevisanj/vipcolors
+Author: Julio Trevisan
+Author-email: juliotrevisan@gmail.com
+License: GNU GPLv3
+Description: UNKNOWN
+Platform: any
+Requires-Python: >=3
